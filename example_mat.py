@@ -1,3 +1,6 @@
+# Upload a waveform from a .mat file to an AFG
+# Author: Andrej Debenjak
+#
 # The create_waveform.m script should be run before this
 # python script to create data.mat file, which is used by
 # this python scrip

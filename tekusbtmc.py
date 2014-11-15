@@ -1,3 +1,4 @@
+# Author: Andrej Debenjak
 #import time
 #from struct
 
